@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package velhoshakki;
+package fi.joiteri.velhoshakki;
 
 /**
  *
  * @author Olli
  */
-public class Tarkastaja {
+public class Lauta {
     
 }

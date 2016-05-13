@@ -3,12 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package velhoshakki;
+package fi.joiteri.velhoshakki;
 
 /**
  *
  * @author Olli
  */
-public class Magneetti {
+public class VelhoShakki {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
     
 }
